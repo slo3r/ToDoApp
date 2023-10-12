@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ToDoApp/static/css/main.2e0f9fb9.css",
+    "main.js": "/ToDoApp/static/js/main.0e6873db.js",
+    "static/js/787.b8fa26a9.chunk.js": "/ToDoApp/static/js/787.b8fa26a9.chunk.js",
+    "static/media/roboto-slab-latin-400-normal.woff": "/ToDoApp/static/media/roboto-slab-latin-400-normal.0c5ad1434064efadf58b.woff",
+    "static/media/roboto-slab-cyrillic-ext-400-normal.woff": "/ToDoApp/static/media/roboto-slab-cyrillic-ext-400-normal.3e45ca1f34b3f708f07e.woff",
+    "static/media/roboto-slab-latin-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-latin-400-normal.86b711159e092f168695.woff2",
+    "static/media/roboto-slab-cyrillic-ext-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-cyrillic-ext-400-normal.3aa73ffaf4ff9dd4981b.woff2",
+    "static/media/roboto-slab-latin-ext-400-normal.woff": "/ToDoApp/static/media/roboto-slab-latin-ext-400-normal.4e3ccbbb9dafd97a55c8.woff",
+    "static/media/roboto-slab-cyrillic-400-normal.woff": "/ToDoApp/static/media/roboto-slab-cyrillic-400-normal.c3d6386c603ad1b5c254.woff",
+    "static/media/roboto-slab-cyrillic-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-cyrillic-400-normal.aca02e00b61fa01c051a.woff2",
+    "static/media/roboto-slab-latin-ext-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-latin-ext-400-normal.fde829948d525076ea99.woff2",
+    "static/media/roboto-slab-greek-400-normal.woff": "/ToDoApp/static/media/roboto-slab-greek-400-normal.3c3e98bac487c0700ee7.woff",
+    "static/media/roboto-slab-greek-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-greek-400-normal.cb1427914a3318f8af7d.woff2",
+    "static/media/roboto-slab-vietnamese-400-normal.woff": "/ToDoApp/static/media/roboto-slab-vietnamese-400-normal.94a91b1ef6299d3dca54.woff",
+    "static/media/roboto-slab-vietnamese-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-vietnamese-400-normal.0bbefed33334496975f0.woff2",
+    "static/media/roboto-slab-greek-ext-400-normal.woff": "/ToDoApp/static/media/roboto-slab-greek-ext-400-normal.4594f8bcfe95fe65365b.woff",
+    "static/media/roboto-slab-greek-ext-400-normal.woff2": "/ToDoApp/static/media/roboto-slab-greek-ext-400-normal.b32338de250af5281d8e.woff2",
+    "index.html": "/ToDoApp/index.html",
+    "main.2e0f9fb9.css.map": "/ToDoApp/static/css/main.2e0f9fb9.css.map",
+    "main.0e6873db.js.map": "/ToDoApp/static/js/main.0e6873db.js.map",
+    "787.b8fa26a9.chunk.js.map": "/ToDoApp/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0f9fb9.css",
+    "static/js/main.0e6873db.js"
+  ]
+}
